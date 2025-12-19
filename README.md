@@ -65,38 +65,36 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xjuangalindox&theme=dark&hide_border=true"/>
-</p> -->
+### 🚀 Projects
 
-### 🎖 &nbsp;My Badges 
+🐇 Granja La Favorita 🌐 Live: https://granjalafavorita.com
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+Web application for managing rabbit breeding, sales, and operational workflows.
 
+- 🔧 Backend: Java · Spring Boot · REST APIs · JPA · MySQL  
+- 🎨 Frontend: Thymeleaf · HTML · CSS · Bootstrap  
+- 🐳 Infrastructure: Docker · Nginx · Linux (Ubuntu VPS)  
+- 📊 Monitoring: Grafana
 
-### 📜 &nbsp;My Articles
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
-
-### 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
-
+<a href="https://granjalafavorita.com" target="_blank">
+  <img 
+    src="https://res.cloudinary.com/dtsxzc6rp/image/upload/v1766168715/conejos_xoafrb.jpg"
+    alt="Granja La Favorita - Sistema de gestión cunícola"
+    width="350"
+    style="border-radius: 10px;"
+  />
+</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="mailto:xjuangalindox@gmail.com">
+    <img src="https://img.shields.io/badge/-xjuangalindox@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juan-francisco-galindo-rios/" target="_blank">
+    <img src="https://img.shields.io/badge/-Juan%20Francisco%20Galindo%20Ríos-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/xjuangalindox" target="_blank">
+    <img src="https://img.shields.io/badge/-xjuangalindox-181717?style=flat&logo=GitHub&logoColor=white"/>
+  </a>
 </p>
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
