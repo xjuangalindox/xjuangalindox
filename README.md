@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can contact me at xjuangalindox@gmail.com, I’ll try to respond as soon as possible.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Developer coding and managing Jira tasks" src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" align="right" width="320"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -64,16 +64,16 @@
 
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xjuangalindox&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xjuangalindox&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
+<!-- <p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xjuangalindox&theme=dark&hide_border=true"/>
+</p> -->
 
 ### 🎖 &nbsp;My Badges 
 
