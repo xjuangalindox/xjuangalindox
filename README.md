@@ -1,5 +1,17 @@
 <h1 align="center"><b>Hi , I'm Juan Galindo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="mailto:xjuangalindox@gmail.com">
+    <img src="https://img.shields.io/badge/-xjuangalindox@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juan-francisco-galindo-rios/" target="_blank">
+    <img src="https://img.shields.io/badge/-Juan%20Francisco%20Galindo%20Ríos-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/xjuangalindox" target="_blank">
+    <img src="https://img.shields.io/badge/-xjuangalindox-181717?style=flat&logo=GitHub&logoColor=white"/>
+  </a>
+</p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I'm currently working at Granja La Favorita as a Full Stack Developer, focused on Java & Spring Boot (backend).\
@@ -8,8 +20,7 @@
 🌱 &nbsp;I’m continuously learning and improving my skills in Spring Boot, Microservices, REST APIs, MySQL, and backend best practices.\
 🤝 &nbsp;I'm looking to collaborate with a Frontend Junior to help with UI, views, and forms, while I focus on backend logic and architecture.\
 ✍️ &nbsp;In my free time, I enjoy improving my projects, refactoring code, and exploring new backend tools and technologies.\
-💬 &nbsp;Feel free to reach out if you want to collaborate on a project, discuss backend development, or exchange ideas.\
-✉️ &nbsp;You can contact me at xjuangalindox@gmail.com, I’ll try to respond as soon as possible.
+💬 &nbsp;Feel free to reach out if you want to collaborate on a project, discuss backend development, or exchange ideas.
 
 <img alt="Developer coding and managing Jira tasks" src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" align="right" width="320"/>
 
@@ -65,7 +76,7 @@
   </a>
 </p>
 
-### 🚀 Projects
+### 🚀 &nbsp;Projects
 
 🐇 Granja La Favorita 🌐 Live: https://granjalafavorita.com
 
@@ -84,17 +95,3 @@ Web application for managing rabbit breeding, sales, and operational workflows.
     style="border-radius: 10px;"
   />
 </a>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <a href="mailto:xjuangalindox@gmail.com">
-    <img src="https://img.shields.io/badge/-xjuangalindox@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/juan-francisco-galindo-rios/" target="_blank">
-    <img src="https://img.shields.io/badge/-Juan%20Francisco%20Galindo%20Ríos-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/xjuangalindox" target="_blank">
-    <img src="https://img.shields.io/badge/-xjuangalindox-181717?style=flat&logo=GitHub&logoColor=white"/>
-  </a>
-</p>
