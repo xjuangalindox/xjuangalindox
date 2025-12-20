@@ -22,7 +22,7 @@
 ✍️ &nbsp;In my free time, I enjoy improving my projects, refactoring code, and exploring new backend tools and technologies.\
 💬 &nbsp;Feel free to reach out if you want to collaborate on a project, discuss backend development, or exchange ideas.
 
-<img alt="Developer coding and managing Jira tasks" src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" align="right" width="320"/>
+<img alt="Developer coding and managing Jira tasks" src="images/developer.gif" align="right" width="320"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -68,10 +68,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/xjuangalindox">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xjuangalindox&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/xjuangalindox">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xjuangalindox&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
