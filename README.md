@@ -97,13 +97,11 @@
 <td width="50%" align="center">
   <a href="https://granjalafavorita.com">🌐 Production System – Granja La Favorita</a>
   <br></br>
-  <a href="https://granjalafavorita.com" target="_blank">
     <img 
       alt="Granja La Favorita"
       width="450"
       src="images/granjalafavorita.jpeg"
     />
-  </a>
 </td>
 </tr>
 </table>
