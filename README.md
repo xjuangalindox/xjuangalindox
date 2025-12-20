@@ -4,11 +4,11 @@
   <a href="mailto:xjuangalindox@gmail.com">
     <img src="https://img.shields.io/badge/-xjuangalindox@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/juan-francisco-galindo-rios/" target="_blank">
-    <img src="https://img.shields.io/badge/-Juan%20Francisco%20Galindo%20Ríos-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
   <a href="https://github.com/xjuangalindox" target="_blank">
     <img src="https://img.shields.io/badge/-xjuangalindox-181717?style=flat&logo=GitHub&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juan-francisco-galindo-rios/" target="_blank">
+    <img src="https://img.shields.io/badge/-Juan%20Francisco%20Galindo%20Ríos-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -78,20 +78,34 @@
 
 ### 🚀 &nbsp;Projects
 
-🐇 Granja La Favorita 🌐 Live: https://granjalafavorita.com
+<!-- Granja La Favorita -->
+<table align="center">
+<tr>
+<td width="50%" align="left">
+  <p align="center">🐇 Granja La Favorita</p>
+  <p align="center">Web application for managing rabbit breeding, sales, and operational workflows.</p> 
+  
+  - 🔧 Backend: Java · Spring Boot · REST APIs · JPA · MySQL
 
-Web application for managing rabbit breeding, sales, and operational workflows.
+  - 🎨 Frontend: Thymeleaf · JS · HTML · CSS · Bootstrap
 
-- 🔧 Backend: Java · Spring Boot · REST APIs · JPA · MySQL  
-- 🎨 Frontend: Thymeleaf · HTML · CSS · Bootstrap  
-- 🐳 Infrastructure: Docker · Nginx · Linux (Ubuntu VPS)  
-- 📊 Monitoring: Grafana
+  - 🐳 Infrastructure: Docker · Nginx · Linux (Ubuntu VPS)
 
-<a href="https://granjalafavorita.com" target="_blank">
-  <img 
-    src="https://res.cloudinary.com/dtsxzc6rp/image/upload/v1766168715/conejos_xoafrb.jpg"
-    alt="Granja La Favorita - Sistema de gestión cunícola"
-    width="350"
-    style="border-radius: 10px;"
-  />
-</a>
+  - 📊 Monitoring: Grafana
+</td>
+
+<td width="50%" align="center">
+  <a href="https://granjalafavorita.com">🌐 Production System – Granja La Favorita</a>
+  
+  <a href="https://granjalafavorita.com" target="_blank">
+    <img 
+      alt="Granja La Favorita - Sistema de gestión cunícola"
+      width="350"
+      src="https://res.cloudinary.com/dtsxzc6rp/image/upload/v1766168715/conejos_xoafrb.jpg"
+    />
+  </a>
+</td>
+</tr>
+</table>
+
+<!-- SIEUN -->
