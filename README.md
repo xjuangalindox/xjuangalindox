@@ -96,10 +96,10 @@
 
 <td width="50%" align="center">
   <a href="https://granjalafavorita.com">🌐 Production System – Granja La Favorita</a>
-  
+  <br></br>
   <a href="https://granjalafavorita.com" target="_blank">
     <img 
-      alt="Granja La Favorita - Sistema de gestión cunícola"
+      alt="Granja La Favorita"
       width="350"
       src="https://res.cloudinary.com/dtsxzc6rp/image/upload/v1766168715/conejos_xoafrb.jpg"
     />
@@ -109,3 +109,29 @@
 </table>
 
 <!-- SIEUN -->
+<table align="center">
+<tr>
+<td width="50%" align="left">
+  <p align="center">🐇 Granja La Favorita</p>
+  <p align="center">Web application for managing rabbit breeding, sales, and operational workflows.</p> 
+  
+  - 🔧 Backend: Java · Spring Boot · REST APIs · JPA · MySQL
+
+  - 🎨 Frontend: Thymeleaf · JS · HTML · CSS · Bootstrap
+
+  - 🐳 Infrastructure: Docker · Nginx · Linux (Ubuntu VPS)
+
+  - 📊 Monitoring: Grafana
+</td>
+
+<td width="50%" align="center">
+  <a href="https://granjalafavorita.com" target="_blank">
+    <img 
+      alt="SIEUN"
+      width="350"
+      src="#"
+    />
+  </a>
+</td>
+</tr>
+</table>
