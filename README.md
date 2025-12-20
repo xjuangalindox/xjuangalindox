@@ -85,13 +85,13 @@
   <p align="center">🐇 Granja La Favorita</p>
   <p align="center">Web application for managing rabbit breeding, sales, and operational workflows.</p> 
   
-  - 🔧 Backend: Java · Spring Boot · REST APIs · JPA · MySQL
+  - 🔧 Backend: Java · Spring Boot · Spring Cloud · REST APIs · JPA
 
   - 🎨 Frontend: Thymeleaf · JS · HTML · CSS · Bootstrap
 
-  - 🐳 Infrastructure: Docker · Nginx · Linux (Ubuntu VPS)
+  - 🗃 Database & Monitoring: MySQL · Grafana
 
-  - 📊 Monitoring: Grafana
+  - 🐳 Infrastructure: Docker · Nginx · Linux (Ubuntu VPS)
 </td>
 
 <td width="50%" align="center">
@@ -100,8 +100,8 @@
   <a href="https://granjalafavorita.com" target="_blank">
     <img 
       alt="Granja La Favorita"
-      width="350"
-      src="https://res.cloudinary.com/dtsxzc6rp/image/upload/v1766168715/conejos_xoafrb.jpg"
+      width="450"
+      src="images/granjalafavorita.jpeg"
     />
   </a>
 </td>
@@ -112,26 +112,24 @@
 <table align="center">
 <tr>
 <td width="50%" align="left">
-  <p align="center">🐇 Granja La Favorita</p>
-  <p align="center">Web application for managing rabbit breeding, sales, and operational workflows.</p> 
+  <p align="center">🏭 SIEUN</p>
+  <p align="center">Internal uniform management system developed for Nissan Mexicana (CIVAC plant).</p> 
   
-  - 🔧 Backend: Java · Spring Boot · REST APIs · JPA · MySQL
+  - 🔧 Technologies: Visual Basic for Applications (VBA)
 
-  - 🎨 Frontend: Thymeleaf · JS · HTML · CSS · Bootstrap
+  - 🗃 Database: Microsoft Access
 
-  - 🐳 Infrastructure: Docker · Nginx · Linux (Ubuntu VPS)
+  - 🏢 Environment: Deployed on Nissan internal network
 
-  - 📊 Monitoring: Grafana
+  - 🔒 Project developed for internal use. Source code is not public.
 </td>
 
 <td width="50%" align="center">
-  <a href="https://granjalafavorita.com" target="_blank">
     <img 
-      alt="SIEUN"
-      width="350"
-      src="#"
+      alt="SIEUN" 
+      width="450" 
+      src="/images/sieun.jpeg"
     />
-  </a>
 </td>
 </tr>
 </table>
